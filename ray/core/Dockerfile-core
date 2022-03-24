@@ -1,1 +1,1 @@
-FROM rayproject/ray:latest
+FROM rayproject/ray:1.11.0-py38-cpu
